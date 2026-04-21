@@ -4,7 +4,7 @@ A complete working prototype of an AI-powered agricultural supply chain platform
 
 ## 🚀 Features
 
-### For Farmers
+## For Farmers
 - ✅ Multi-step crop input form with AI validation
 - 📊 AI-powered crop scoring (0-100 scale)
 - 🖼️ Crop image analysis using Gemini Vision
@@ -12,14 +12,14 @@ A complete working prototype of an AI-powered agricultural supply chain platform
 - 📈 Score trend tracking and analytics
 - 📋 Dashboard with crop management
 
-### For Suppliers/Middlemen
+## For Suppliers/Middlemen
 - 🚚 Order management and tracking
 - 📍 Google Maps integration for route optimization
 - 📊 Price comparison analytics
 - ⭐ Reliability metrics and performance tracking
 - 📦 Delivery radius and coverage management
 
-### For Buyers
+## For Buyers
 - 🛒 Real-time crop marketplace
 - 🔍 Advanced filtering (score, price, crop type)
 - 👨‍🌾 Detailed farmer profiles with quality breakdown
@@ -81,8 +81,7 @@ src/
 - **Notifications:** React Hot Toast
 
 ## 📋 Setup Instructions
-
-### Prerequisites
+## Prerequisites
 - Node.js 16+ and npm/yarn
 - Firebase project
 - Google Cloud project with APIs enabled:
